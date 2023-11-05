@@ -1,0 +1,13 @@
+name = "Proj1"
+uuid = "f9e5489c-7d5a-4d0b-ae64-9955ac7b5832"
+authors = ["Cher Li <106415220+YCherL@users.noreply.github.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
